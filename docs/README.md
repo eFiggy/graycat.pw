@@ -4,7 +4,7 @@
 
 ## Welcome to **gray**cat|solutions
 
-**gray**cat|solutions was founded in 2019 with the goal to assist educational institutions nationwide with various Information Technology issues. Whether it's hardware or software, client-support or enterprise-level support, we've got you covered. Our staff is versed in the following:
+**gray**cat solutions was founded in 2019 with the goal to assist educational institutions nationwide with various Information Technology issues. Whether it's hardware or software, client-support or enterprise-level support, we've got you covered. Our staff is versed in the following:
 
 - Operating systems
   - Modern Windows versions, including 10
