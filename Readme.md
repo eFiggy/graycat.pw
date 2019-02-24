@@ -1,6 +1,6 @@
 # eFiggy/graycat.pw
 
-![graycatsolutions_logo](./img/logo.png)
+![graycatsolutions_logo](./docs/img/logo.png)
 
 ## About this repo
 
