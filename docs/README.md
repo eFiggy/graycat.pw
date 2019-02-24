@@ -1,7 +1,3 @@
----
-title: gray|cat solutions
----
-
 # Home
 
 ![graycatsolutions_logo](./img/logo.png)
