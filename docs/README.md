@@ -13,9 +13,8 @@
   - Linux derivatives such as Debian, Ubuntu, Fedora, Cent OS, RedHat Enterprise Linux, and OpenSUSE
 - Programming languages
   - PowerShell
-  - Bash shell scripting
   - Python
-  - Perl
+  - Bash shell scripting
   - C#
 - Hardware
   - Desktop components
@@ -23,9 +22,10 @@
   - Cisco networking equipment, including IP phones
 - Technologies
   - Active Directory
+  - Azure
   - Microsoft 365
   - XAML/UWP
 
 ## Disclaimer
 
-**gray**cat\|solutions isn't a real organization. It's meant to be used as an example consultant company for my schooling. If you're looking for an actual consultant specializing in your Information Technology needs, head on over to either [Google](https://www.google.com) or [DuckDuckGo](https://www.duckduckgo.com). And if you're looking to hire a System Engineer, feel free to check out [my LinkedIn profile](https://www.linkedin.com/in/edfig/).
+**gray**cat\|solutions isn't a real organization. It's meant to be used as an example consultant company for my schooling. If you're looking for an actual consultant specializing in your Information Technology needs, head on over to either [Google](https://www.google.com) or [DuckDuckGo](https://www.duckduckgo.com).
